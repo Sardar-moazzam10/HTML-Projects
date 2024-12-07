@@ -1,0 +1,141 @@
+#id {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#para2 {
+    font-family: 'Times New Roman';
+    font-size: 18px;
+
+}
+
+
+button {
+    background-color: rgba(11, 110, 197, 0.6);
+    color: white;
+    height: 33px;
+    width: 260px;
+
+    border-radius: 5px;
+    text-decoration: none;
+
+    padding-bottom: px;
+    border: 1px solid rgb(117, 110, 110);
+}
+
+#div3 {}
+
+#i2 {
+    padding-top: 3px;
+    padding-right: 2px;
+}
+
+form {
+    display: inline;
+    margin-bottom: x;
+}
+
+#kk1 {
+    position: fixed;
+    bottom: 0x;
+    height: 10px;
+    width: 30px;
+
+
+}
+
+input {
+    width: 260px;
+    border-radius: 4px;
+    height: 35px;
+    border: 1px solid rgb(180, 168, 168);
+    background-color: rgb(247, 247, 247);
+}
+
+#main {
+
+    height: 700px;
+    width: 355px;
+    border: 1px solid rgb(226, 216, 216);
+    text-align: center;
+
+}
+
+#p3 {
+    color: rgb(95, 94, 103);
+    display: inline;
+}
+
+#para1 {
+    font-size: 15px;
+
+}
+
+#img2 {
+    height: 110px;
+    width: 300px;
+    display: inline;
+}
+
+#img1 {
+    display: inline;
+    height: 45px;
+    width: 55px;
+}
+
+#div5 {
+    text-align: center;
+    border: 1px solid rgb(226, 217, 217);
+    margin-top: 15px;
+    width: 355px;
+    height: 55px;
+
+
+
+}
+
+
+#p5 {
+    display: inline;
+
+}
+
+#dd1 {
+    display: inline;
+
+}
+
+#dd2 {
+
+    display: inline;
+    margin-left: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#p4 {
+    display: inline;
+    color: rgba(11, 110, 197, 1);
+    text-align: center;
+}
+
+#pp1 {
+    margin-top: 10px;
+    display: inline;
+    padding-left: 2px;
+}
+
+#a1 {
+    text-decoration: none;
+    color: rgba(11, 110, 197, 1);
+}
+
+
+#container {
+    text-align: center;
+    display: inline;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}

@@ -1,0 +1,68 @@
+.div1{
+
+    background-color:beige;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border:15px solid green;
+    border-top: 15px solid black;
+    animation: loader 3s linear 1s step-end;
+    display: inline block;
+
+}
+@keyframes loader {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    } 
+}
+.div2{
+    position: absolute;
+    left: 350px;
+    height: 200px;
+    width: 200px;
+background-color: aqua;
+    border-radius: 0%;
+    margin: 10px;
+    transition: all;
+bottom: 100px;
+    display: inline;
+}
+.div2:hover{
+    transition-duration: 3s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+    /* transform: rotateX(50deg);
+    transform: rotatey(90eg);
+    transform: rotatez(45deg);
+    transform: skewX(30deg); */
+   
+    transform: translateX(20px);
+    transform: translatey(-80px);
+    
+    
+}
+#p1{
+    background-color: yellow;
+    color: red;
+}
+#p2{
+    background-color: blue;
+    color: white;
+}
+#p3{
+    background-color: blue;
+    color: white;
+}
+#p4{
+    background-color: blue;
+    color: white;
+}
+#p5{
+    background-color: blue;
+    color: white;
+}
+
+

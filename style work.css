@@ -1,0 +1,8 @@
+div{
+    height: 400x;
+    width: 600px;
+    background-image: url(download.jpeg);
+    background-size: cover;
+    position: fixed;
+    right: 0;
+}

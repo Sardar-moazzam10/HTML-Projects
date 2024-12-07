@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.outerdiv {
+    background-color: rgb(105, 114, 120);
+    width: 100vw;
+    height: 100vh;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.innerdiv {
+    background-color: skyblue;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 45rem;
+    height: 34rem;
+    margin-top: 18px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.contacttext {
+    background-color: rgb(0, 110, 124);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 100px;
+
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-left: 40px;
+    padding-top: 15px;
+}
+
+input {
+    width: 40rem;
+    height: 25px;
+}
+
+button {
+    background-color: rgb(0, 110, 124);
+    width: 80px;
+    height: 2rem;
+    border: none;
+}
+
+#formdiv {
+    margin-left: 27px;
+}
+
+#h42 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-left: 45px;
+}
+
+.placeholder {
+    width: 40rem;
+    height: 6rem;
+}
